@@ -1,0 +1,12 @@
+# Authors
+#
+# This file lists alternative authors that can be referenced from posts via the
+# `author:` front-matter key. The default author of the site is configured in
+# _config.yml under the top-level `author:` block, so this file can stay empty
+# unless multiple authors are needed.
+
+Diego Almonacid-Almarza:
+  name        : "Diego Almonacid-Almarza"
+  email       : "dalmonacid.a@gmail.com"
+  bio         : "Ph.D. candidate in philosophy of law at the University of Genoa."
+  avatar      : "diego-almonacid-almarza.jpeg"

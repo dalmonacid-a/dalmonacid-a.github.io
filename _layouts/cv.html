@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" class="cv-layout" role="main">
+  <article class="cv-page" itemscope itemtype="http://schema.org/Person">
+    <div class="cv-toolbar no-print" aria-label="CV actions">
+      <button class="cv-print-button" type="button" onclick="window.print()">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i>
+        <span>Export PDF</span>
+      </button>
+    </div>
+
+    {{ content }}
+  </article>
+</div>

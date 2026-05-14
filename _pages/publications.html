@@ -1,0 +1,38 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% assign posts_shown = 0 %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% assign posts_shown = posts_shown | plus: 1 %}
+      {% include publication-minimal.html %}
+    {% endfor %}
+    {% if posts_shown == 0 and category[1].always_show %}
+      <h2>{{ category[1].title }}</h2><hr />
+      {% if category[1].empty %}
+        <p class="publication-minimal__empty">{{ category[1].empty }}</p>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include publication-minimal.html %}
+  {% endfor %}
+{% endif %}
+

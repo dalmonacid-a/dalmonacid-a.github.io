@@ -1,0 +1,27 @@
+<article class="publication-minimal">
+  {% assign body_content = post.content | strip %}
+  {% if body_content != "" or post.paperurl %}
+    <details>
+      <summary>
+        <span class="publication-minimal__title">{{ post.title }}</span>
+        {% if post.english_title %}
+          <span class="publication-minimal__translation">[{{ post.english_title }}]</span>
+        {% endif %}
+      </summary>
+      <div class="publication-minimal__abstract">
+        {{ post.content | markdownify }}
+        {% if post.paperurl %}
+          <p><a href="{{ post.paperurl }}">Download PDF</a></p>
+        {% endif %}
+      </div>
+    </details>
+  {% else %}
+    <div class="publication-minimal__heading">
+      <span class="publication-minimal__title">{{ post.title }}</span>
+      {% if post.english_title %}
+        <span class="publication-minimal__translation">[{{ post.english_title }}]</span>
+      {% endif %}
+    </div>
+  {% endif %}
+  <p class="publication-minimal__venue">{% if post.venue %}<em>{{ post.venue }}</em>{% endif %}{% if post.publisher %}. {{ post.publisher }}{% endif %}{% if post.status %}{% if post.venue or post.publisher %}, {% endif %}{{ post.status }}{% endif %}{% if post.date and post.display_year != false %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+</article>
