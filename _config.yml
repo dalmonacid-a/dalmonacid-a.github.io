@@ -12,10 +12,9 @@ site_theme: "default" # The available themes options are "default", "air", "sunr
 title: "Diego Almonacid-Almarza"
 title_separator: "-"
 name: &name "Diego Almonacid-Almarza"
-description: &description "Academic website of Diego Almonacid-Almarza, Ph.D. candidate in philosophy of law at the Università degli Studi di Genova."
-url:
-  "https://diegoalmonacidalmarza.com"
-  # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description: &description "Academic website of Diego Almonacid-Almarza, Ph.D. candidate in philosophy of law at the Università degli Studi di Genova. Research on the efficacy of legal norms, the instrumentality of law, legal theory, and the rule of law."
+url: "https://diegoalmonacidalmarza.com"
+# or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "dalmonacid-a/dalmonacid-a.github.io"
 
@@ -182,6 +181,7 @@ exclude:
   - config
   - Dockerfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
@@ -191,6 +191,13 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - README.md
+  - CONTRIBUTING.md
+  - MIGRATION_NOTES.md
+  - PUBLISHING.md
+  - markdown_generator
+  - files/handouts/README.md
+  - files/papers/README.md
   - tmp
   - vendor
 keep_files:
