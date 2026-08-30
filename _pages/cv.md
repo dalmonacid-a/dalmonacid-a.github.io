@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <header class="cv-header">
-  <p class="cv-updated">Feb. 2026</p>
+  <p class="cv-updated">Aug. 2026</p>
   <h1>Diego Almonacid-Almarza</h1>
   <p>via Balbi 30/18, Genoa, Italy, 16126</p>
   <p class="cv-contact">
@@ -129,6 +129,21 @@ Theory and philosophy of law; efficacy of legal norms; instrumentality of law; f
 ## Conference Presentations
 
 <div class="cv-entry cv-entry--compact">
+  <div class="cv-entry__body"><strong>"The Causal Efficacy of Legal Norms: An Interventionist Account"</strong> - Special Workshop 69, "Legality, Decision-Making Contexts, and Institutional Design," IVR World Congress, Kadir Has University, Istanbul.</div>
+  <div class="cv-entry__date">3 July 2026</div>
+</div>
+
+<div class="cv-entry cv-entry--compact">
+  <div class="cv-entry__body"><strong>"Genealogy as Reverse Conceptual Engineering: Tarello, Property, and the Standards Problem"</strong> - Special Workshop 84, "Conceptual Engineering and Legal Discourse: New Methods of Concept Evaluation," IVR World Congress, Kadir Has University, Istanbul.</div>
+  <div class="cv-entry__date">2 July 2026</div>
+</div>
+
+<div class="cv-entry cv-entry--compact">
+  <div class="cv-entry__body"><strong>"The Distance Dilemma: Efficacy of Legal Norms and Knowledge of the Law"</strong> - Crystal Clear Conference 2026, University of Lisbon.</div>
+  <div class="cv-entry__date">15 May 2026</div>
+</div>
+
+<div class="cv-entry cv-entry--compact">
   <div class="cv-entry__body"><strong>"Knowledge and Efficacy: Rethinking Kelsen's Explanation of Law's Instrumentality"</strong> - Workshop on the Vienna School of Jurisprudence and the Pure Theory of Law, University of Freiburg.</div>
   <div class="cv-entry__date">16 Sept. 2025</div>
 </div>
@@ -144,7 +159,7 @@ Theory and philosophy of law; efficacy of legal norms; instrumentality of law; f
 </div>
 
 <div class="cv-entry cv-entry--compact">
-  <div class="cv-entry__body"><strong>"Exploring Legal Mechanisms: Assessing the Efficacy of Legal Rules"</strong> - Special Workshop 8, Legal Philosophy and Legal Practice, Soongsil University, Seoul.</div>
+  <div class="cv-entry__body"><strong>"Exploring Legal Mechanisms: Assessing the Efficacy of Legal Rules"</strong> - Special Workshop 8, Legal Philosophy and Legal Practice, IVR Congress, Soongsil University, Seoul.</div>
   <div class="cv-entry__date">11 Jul. 2024</div>
 </div>
 
