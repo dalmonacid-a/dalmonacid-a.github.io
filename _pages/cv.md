@@ -20,7 +20,7 @@ redirect_from:
 
 ## Profile
 
-His research focuses on legal philosophy, with particular emphasis on the instrumentality of law and on how legal norms causally contribute to the achievement of social objectives. He approaches these issues through the concepts of efficacy and through functional, causal, and mechanistic explanations of legal phenomena. He is currently pursuing a Ph.D. in the programme in Philosophy of Law and History of Legal Culture at the Università degli Studi di Genova. His doctoral dissertation, *The Efficacy of Legal Norms: An Analysis of the Instrumentality of Law*, critically examines the concept of the efficacy of legal norms and its relation to legal instrumentality. He is a licensed attorney in Chile, holds a Master's degree in Global Rule of Law and Constitutional Democracy from the Università degli Studi di Genova, and earned his law degree from Universidad Austral de Chile. His teaching experience includes work as a Teaching Assistant at Universidad Austral de Chile and as a Lecturer at Universidad de Magallanes.
+His research focuses on legal philosophy, with particular emphasis on the instrumentality of law and on how legal norms causally contribute to the achievement of social objectives. He approaches these issues through the concepts of efficacy and through functional, causal, and mechanistic explanations of legal phenomena. He is currently pursuing a Ph.D. in the programme in Philosophy of Law and History of Legal Culture at the Università degli Studi di Genova. His doctoral dissertation, *Law in the Causal Structure of the Social World: The Efficacy of Legal Norms and the Instrumentality of Law*, critically examines the concept of the efficacy of legal norms and its relation to legal instrumentality. He is a licensed attorney in Chile, holds a Master's degree in Global Rule of Law and Constitutional Democracy from the Università degli Studi di Genova, and earned his law degree from Universidad Austral de Chile. His teaching experience includes work as a Teaching Assistant at Universidad Austral de Chile and as a Lecturer at Universidad de Magallanes.
 
 ## Research Interests
 
@@ -59,7 +59,7 @@ Theory and philosophy of law; efficacy of legal norms; instrumentality of law; f
     <p><strong>Ph.D. in Law, Università degli Studi di Genova</strong></p>
     <ul>
       <li>Curriculum: Philosophy of Law and History of Legal Culture.</li>
-      <li>Dissertation: <em>The Efficacy of Legal Norms: An Analysis of the Instrumentality of Law</em>. Supervisors: Giovanni B. Ratti, Maria Cristina Redondo, Sebastián Figueroa.</li>
+      <li>Dissertation: <em>Law in the Causal Structure of the Social World: The Efficacy of Legal Norms and the Instrumentality of Law</em>. Supervisors: Giovanni B. Ratti, Maria Cristina Redondo, Sebastián Figueroa.</li>
     </ul>
   </div>
   <div class="cv-entry__date">2022 - Present</div>
@@ -101,6 +101,7 @@ Theory and philosophy of law; efficacy of legal norms; instrumentality of law; f
 ### Journal Articles
 
 <ul class="cv-publication-list">
+  <li><strong>"Rule of Law, Fidelity, and Mediated Efficacy: Addressing the Distance Dilemma in Postema's Theory"</strong>, <em>Ratio Juris</em>, vol. 39, no. 1-2, pp. 7-19.</li>
   <li>"Contribuciones de J. Waldron a una teoría descriptiva de la legislación" <strong>[Contributions of J. Waldron to a Descriptive Theory of Legislation]</strong>, <em>Revista Telemática de Filosofía del Derecho</em>, no. 26, 2023, pp. 107-133.</li>
   <li>"Principio de eficacia e imperio de la ley. Observaciones en torno a su relación" <strong>[Principle of efficacy and rule of law. Observations about their relationship]</strong>, <em>Isonomía - Revista de teoría y filosofía del derecho</em>, no. 58, 2023, pp. 1-31 [Scopus].</li>
   <li>"Racionalidad teleológica legislativa y eficacia como éxito. Un panorama de dificultades" <strong>[Legislative teleological rationality and effectiveness as success. An overview of difficulties]</strong>, <em>Revista de Derecho (Valdivia)</em>, vol. XXXIV, no. 1, 2021, pp. 9-27 [Scopus].</li>
@@ -109,6 +110,7 @@ Theory and philosophy of law; efficacy of legal norms; instrumentality of law; f
 ### Book Chapters
 
 <ul class="cv-publication-list">
+  <li><strong>"The Efficacy of Legal Rights and the Denial of Rights"</strong>, in <em>I diritti negati, il diritto tradito. Itinerario di una ricerca dottorale</em>, edited by Paola Ivaldi and Lorenzo Schiano di Pepe, Editoriale Scientifica, 2026, pp. 47-59.</li>
   <li>"Una teoría de la legislación con enfoque lógico. Apuntes sobre la legislación-proceso y el legislador en la obra de Eugenio Bulygin" <strong>[A theory of legislation with a logical approach. Notes on the legislation-process and the legislator in Eugenio Bulygin's work]</strong>, in <em>Eugenio Bulygin en la teoría del derecho contemporánea</em>, edited by Giovanni B. Ratti, Julieta Rábanos, and María Cristina Redondo, Marcial Pons, 2022, pp. 407-422.</li>
 </ul>
 
@@ -118,10 +120,10 @@ Theory and philosophy of law; efficacy of legal norms; instrumentality of law; f
   <li>"Un breve ejercicio meta-legisprudencial" <strong>[A Brief Meta-Legisprudential Exercise]</strong>, in <em>Interfolio. Proceedings of the VIII Interescuelas de Filosofía del Derecho</em>, edited by Ricardo Guibourg, Universidad de Buenos Aires, 18 Sept. 2022.</li>
 </ul>
 
-### In Press
+### Accepted
 
 <ul class="cv-publication-list">
-  <li><strong>"Rule of Law, Fidelity, and Mediated Efficacy: Addressing the Distance Dilemma in Postema's Theory"</strong>, <em>Ratio Juris</em>.</li>
+  <li><strong>"The Distance Dilemma: Legal Efficacy and Knowledge of the Law"</strong>, <em>Archiv für Rechts- und Sozialphilosophie</em>.</li>
 </ul>
 
 ## Conference Presentations
