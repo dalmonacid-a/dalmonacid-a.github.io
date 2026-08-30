@@ -1,10 +1,12 @@
 ---
-title: "The Distance Dilemma: Efficacy of Legal Norms and Knowledge of the Law"
+title: "The Distance Dilemma: Legal Efficacy and Knowledge of the Law"
 collection: publications
-category: work-in-progress
+category: accepted
 permalink: /publication/distance-dilemma-efficacy-knowledge-law
-excerpt: "Full manuscript available upon request."
+excerpt: "Accepted for publication in Archiv für Rechts- und Sozialphilosophie."
 date: 2026-05-02
 display_year: false
-status: "Full manuscript available upon request."
+venue: "Archiv für Rechts- und Sozialphilosophie"
+status: "Accepted"
+citation: 'Almonacid-Almarza, Diego. &quot;The Distance Dilemma: Legal Efficacy and Knowledge of the Law.&quot; <i>Archiv für Rechts- und Sozialphilosophie</i>. Accepted for publication.'
 ---

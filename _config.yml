@@ -88,8 +88,8 @@ publication_category:
     title: "Journal Articles"
   book-chapters:
     title: "Book Chapters"
-  in-press:
-    title: "In Press"
+  accepted:
+    title: "Accepted"
   work-in-progress:
     title: "Work in Progress"
     always_show: true

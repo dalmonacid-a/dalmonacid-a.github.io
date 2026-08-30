@@ -11,7 +11,7 @@
       <div class="publication-minimal__abstract">
         {{ post.content | markdownify }}
         {% if post.paperurl %}
-          <p><a href="{{ post.paperurl }}">Download PDF</a></p>
+          <p><a href="{{ post.paperurl }}">{{ post.paperurl_label | default: "Download PDF" }}</a></p>
         {% endif %}
       </div>
     </details>

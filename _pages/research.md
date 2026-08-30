@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Efficacy of Legal Norms and the Instrumentality of Law"
+title: "Law in the Causal Structure of the Social World: The Efficacy of Legal Norms and the Instrumentality of Law"
 permalink: /research/
 author_profile: true
 ---

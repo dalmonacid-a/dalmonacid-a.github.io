@@ -33,7 +33,7 @@ redirect_from:
 
   <p>I am a Ph.D. candidate in Law at the Tarello Institute for Legal Philosophy, University of Genoa, within the programme in Philosophy of Law and History of Legal Culture.</p>
 
-  <p>My doctoral dissertation, <em>The Efficacy of Legal Norms: An Analysis of the Instrumentality of Law</em>, critically examines the concept of legal efficacy and its relation to the idea of law as an instrument for achieving social objectives.</p>
+  <p>My doctoral dissertation, <em>Law in the Causal Structure of the Social World: The Efficacy of Legal Norms and the Instrumentality of Law</em>, critically examines the concept of legal efficacy and its relation to the idea of law as an instrument for achieving social objectives.</p>
 
   <p>My research lies mainly in legal philosophy. I am particularly interested in the instrumentality of law, the functions of legal norms, compliance, and the role of causal, functional, and mechanistic explanations in legal theory. More broadly, my work engages with questions concerning the rule of law, legisprudence, and the explanatory resources that legal theory can develop in dialogue with the philosophy of causation and the philosophy of explanation.</p>
 
