@@ -88,6 +88,8 @@ publication_category:
     title: "Journal Articles"
   book-chapters:
     title: "Book Chapters"
+  editorial-work:
+    title: "Editorial Work"
   accepted:
     title: "Accepted"
   work-in-progress:

@@ -114,6 +114,12 @@ Theory and philosophy of law; efficacy of legal norms; instrumentality of law; f
   <li>"Una teoría de la legislación con enfoque lógico. Apuntes sobre la legislación-proceso y el legislador en la obra de Eugenio Bulygin" <strong>[A theory of legislation with a logical approach. Notes on the legislation-process and the legislator in Eugenio Bulygin's work]</strong>, in <em>Eugenio Bulygin en la teoría del derecho contemporánea</em>, edited by Giovanni B. Ratti, Julieta Rábanos, and María Cristina Redondo, Marcial Pons, 2022, pp. 407-422.</li>
 </ul>
 
+### Editorial Work
+
+<ul class="cv-publication-list">
+  <li><strong><em>The Future of Jurisprudence. Proceedings of the XXIX Italian-French-Portuguese-Spanish Conference on Legal Theory, Part I</em></strong>, guest-edited with Marco Segatti, <em>Analisi e diritto</em>, no. 1, 2026.</li>
+</ul>
+
 ### Short Format
 
 <ul class="cv-publication-list">
@@ -123,10 +129,16 @@ Theory and philosophy of law; efficacy of legal norms; instrumentality of law; f
 ### Accepted
 
 <ul class="cv-publication-list">
+  <li><strong>"Introduction"</strong>, with Marco Segatti, in <em>The Future of Jurisprudence. Proceedings of the XXIX Italian-French-Portuguese-Spanish Conference on Legal Theory, Part I</em>, <em>Analisi e diritto</em>, no. 1, 2026, forthcoming.</li>
   <li><strong>"The Distance Dilemma: Legal Efficacy and Knowledge of the Law"</strong>, <em>Archiv für Rechts- und Sozialphilosophie</em>.</li>
 </ul>
 
 ## Conference Presentations
+
+<div class="cv-entry cv-entry--compact">
+  <div class="cv-entry__body"><strong>"The Distance Dilemma: Efficacy of Legal Norms and Knowledge of the Law"</strong> - Cambridge Legal Theory Discussion Group, University of Cambridge.</div>
+  <div class="cv-entry__date">8 Oct. 2026</div>
+</div>
 
 <div class="cv-entry cv-entry--compact">
   <div class="cv-entry__body"><strong>"The Causal Efficacy of Legal Norms: An Interventionist Account"</strong> - Special Workshop 69, "Legality, Decision-Making Contexts, and Institutional Design," IVR World Congress, Kadir Has University, Istanbul.</div>

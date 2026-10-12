@@ -23,5 +23,5 @@
       {% endif %}
     </div>
   {% endif %}
-  <p class="publication-minimal__venue">{% if post.venue %}<em>{{ post.venue }}</em>{% endif %}{% if post.publisher %}. {{ post.publisher }}{% endif %}{% if post.status %}{% if post.venue or post.publisher %}, {% endif %}{{ post.status }}{% endif %}{% if post.date and post.display_year != false %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+  <p class="publication-minimal__venue">{% if post.credit %}{{ post.credit }}. {% endif %}{% if post.venue %}<em>{{ post.venue }}</em>{% endif %}{% if post.publisher %}. {{ post.publisher }}{% endif %}{% if post.date and post.display_year != false and post.year_before_status %}, {{ post.date | date: "%Y" }}{% endif %}{% if post.status %}{% if post.venue or post.publisher %}, {% endif %}{{ post.status }}{% endif %}{% if post.date and post.display_year != false %}{% unless post.year_before_status %}, {{ post.date | date: "%Y" }}{% endunless %}{% endif %}</p>
 </article>
